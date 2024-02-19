@@ -12,6 +12,16 @@
       "tags": [
         "Health & Fitness"
       ]
+    },
+    {
+      "id": "bd93af04-b657-49f2-8228-6a2f2a4b7584",
+      "name": "Aroma-Link Integration",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/ady624/hubitat-aroma-link/master/packageManifest.json",
+      "description": "Aroma-Link Integration",
+      "tags": [
+        "Climate Control"
+      ]
     }
   ]
 }
